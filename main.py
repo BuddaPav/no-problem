@@ -18,8 +18,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Get API keys
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+OPENAI_API_KEY = os.getenv('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')
+TELEGRAM_BOT_TOKEN = os.getenv('8184601194:AAED936KjImBZ3GnizGlB32SgQ5me0g2_XE')
 CHAT_ID = "-1002628146453"
 
 # Keywords
